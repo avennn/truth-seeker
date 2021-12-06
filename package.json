@@ -1,0 +1,22 @@
+{
+  "name": "truth-seeker",
+  "version": "1.0.0",
+  "description": "专门用来验证观点的monorepo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avennn/truth-seeker.git"
+  },
+  "keywords": [
+    "monorepo"
+  ],
+  "author": "Javen Leung",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/avennn/truth-seeker/issues"
+  },
+  "homepage": "https://github.com/avennn/truth-seeker#readme"
+}

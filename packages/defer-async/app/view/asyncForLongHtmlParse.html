@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<head>
+  <title>defer-async</title>
+  <script>
+    const start = Date.now();
+    console.log('addEventListener', start);
+    document.addEventListener('DOMContentLoaded', function () {
+      const end = Date.now();
+      console.log('DOMContentLoaded', end, end - start);
+    });
+  </script>
+  <script src="/public/asyncForLong.js" async></script>
+</head>
+<body>
+  <!-- async -> DOMContentLoaded -->
+  {% for item in arr %}
+  <p>Number {{ item }}</p>
+  {% endfor %}
+</body>
