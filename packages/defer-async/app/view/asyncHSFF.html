@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<head>
+  <title>defer-async</title>
+  <script>
+    console.time('DOMContentLoaded');
+    document.addEventListener('DOMContentLoaded', function () {
+      console.timeEnd('DOMContentLoaded');
+    });
+  </script>
+  <script src="/scripts/asyncExecShort.js?t=500" async></script>
+</head>
+<body>
+  <!-- async -> DOMContentLoaded -->
+</body>

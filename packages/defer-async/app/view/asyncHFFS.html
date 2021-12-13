@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<head>
+  <title>defer-async</title>
+  <script>
+    console.time('DOMContentLoaded');
+    document.addEventListener('DOMContentLoaded', function () {
+      console.timeEnd('DOMContentLoaded');
+    });
+  </script>
+  <script src="/scripts/asyncExecShort.js" async></script>
+</head>
+<body>
+  <!-- async -> DOMContentLoaded -->
+  {% for item in arr %}
+  <p>Number {{ item }}</p>
+  {% endfor %}
+</body>

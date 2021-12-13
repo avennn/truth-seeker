@@ -1,7 +1,75 @@
 <!DOCTYPE html>
 <head>
   <title>defer-async</title>
+  <style>
+    table,
+    th,
+    td {
+        border: 1px solid #333;
+        border-spacing: 0;
+    }
+    td {
+      padding: 10px;
+      text-align: center;
+    }
+  </style>
 </head>
 <body>
-  <p>hello world!</p>
+  <div id="app"></div>
+  <p>async + 放在head内 + script请求快 + script执行快 + html执行中速</p>
+  <table>
+    <thead>
+        <tr>
+            <th>类型</th>
+            <th>位置</th>
+            <th>script请求速度</th>
+            <th>script执行速度</th>
+            <th>html解析速度</th>
+            <th>action</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>defer</td>
+            <td>head</td>
+            <td>head</td>
+            <td>head</td>
+            <td>head</td>
+            <td>
+              <a href="#">Go</a>
+            </td>
+        </tr>
+        <tr>
+            <td>async</td>
+            <td>head</td>
+            <td>快</td>
+            <td>快</td>
+            <td>慢</td>
+            <td>
+              <a href="/async1" target="_blank">async1</a>
+            </td>
+        </tr>
+        <tr>
+            <td>async</td>
+            <td>head</td>
+            <td>快</td>
+            <td>慢</td>
+            <td>中</td>
+            <td>
+              <a href="/async2" target="_blank">async2</a>
+            </td>
+        </tr>
+        <tr>
+            <td>async</td>
+            <td>head</td>
+            <td>慢</td>
+            <td>快</td>
+            <td>快</td>
+            <td>
+              <a href="/async3" target="_blank">async3</a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+  </script>
 </body>

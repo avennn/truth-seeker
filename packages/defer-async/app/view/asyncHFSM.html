@@ -2,14 +2,12 @@
 <head>
   <title>defer-async</title>
   <script>
-    const start = Date.now();
-    console.log('addEventListener', start);
+    console.time('DOMContentLoaded');
     document.addEventListener('DOMContentLoaded', function () {
-      const end = Date.now();
-      console.log('DOMContentLoaded', end, end - start);
+      console.timeEnd('DOMContentLoaded');
     });
   </script>
-  <script src="/public/asyncForLong.js" async></script>
+  <script src="/scripts/asyncExecLong.js" async></script>
 </head>
 <body>
   <!-- async -> DOMContentLoaded -->
