@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<head>
+  <title>defer-async</title>
+  <script>
+    console.time('DOMContentLoaded');
+    document.addEventListener('DOMContentLoaded', function () {
+      console.timeEnd('DOMContentLoaded');
+    });
+  </script>
+  <script src="/scripts/deferExecShort.js?t=50" defer></script>
+  <script src="/scripts/deferExecShort1.js"></script>
+</head>
+<body>
+  <!-- defer -> DOMContentLoaded -->
+  <!-- deferExecShort.js在html parse最后阶段才执行，但还是比DOMContentLoaded要快 -->
+  {% for item in arr %}
+  <p>Number {{ item }}</p>
+  {% endfor %}
+</body>

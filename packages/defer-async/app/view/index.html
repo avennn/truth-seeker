@@ -16,7 +16,6 @@
 </head>
 <body>
   <div id="app"></div>
-  <p>async + 放在head内 + script请求快 + script执行快 + html执行中速</p>
   <table>
     <thead>
         <tr>
@@ -32,11 +31,21 @@
         <tr>
             <td>defer</td>
             <td>head</td>
-            <td>head</td>
-            <td>head</td>
-            <td>head</td>
+            <td>快</td>
+            <td>快</td>
+            <td>慢</td>
             <td>
-              <a href="#">Go</a>
+              <a href="/defer1" target="_blank">defer1</a>
+            </td>
+        </tr>
+        <tr>
+            <td>defer</td>
+            <td>head 2 defer</td>
+            <td>快</td>
+            <td>快</td>
+            <td>慢</td>
+            <td>
+              <a href="/defer2" target="_blank">defer2</a>
             </td>
         </tr>
         <tr>
@@ -68,6 +77,26 @@
             <td>
               <a href="/async3" target="_blank">async3</a>
             </td>
+        </tr>
+        <tr>
+          <td>async</td>
+          <td>body</td>
+          <td>快</td>
+          <td>快</td>
+          <td>慢</td>
+          <td>
+            <a href="/async4" target="_blank">async4</a>
+          </td>
+        </tr>
+        <tr>
+          <td>async</td>
+          <td>head 2 async</td>
+          <td>快</td>
+          <td>快</td>
+          <td>慢</td>
+          <td>
+            <a href="/async5" target="_blank">async5</a>
+          </td>
         </tr>
     </tbody>
 </table>

@@ -30,13 +30,37 @@ class HomeController extends Controller {
     const { ctx } = this;
     ctx.body = await ctx.renderView('asyncHSFF');
   }
-  async asyncForLongHtmlParse() {
+  async asyncBFFS() {
     const { ctx } = this;
     const arr = [];
     for (let i = 0; i < 10000; i++) {
       arr.push(i);
     }
-    ctx.body = await ctx.renderView('asyncForLongHtmlParse', { arr });
+    ctx.body = await ctx.renderView('asyncBFFS', { arr });
+  }
+  async async2HFFS() {
+    const { ctx } = this;
+    const arr = [];
+    for (let i = 0; i < 10000; i++) {
+      arr.push(i);
+    }
+    ctx.body = await ctx.renderView('async2HFFS', { arr });
+  }
+  async deferHFFS() {
+    const { ctx } = this;
+    const arr = [];
+    for (let i = 0; i < 10000; i++) {
+      arr.push(i);
+    }
+    ctx.body = await ctx.renderView('deferHFFS', { arr });
+  }
+  async defer2HFFS() {
+    const { ctx } = this;
+    const arr = [];
+    for (let i = 0; i < 10000; i++) {
+      arr.push(i);
+    }
+    ctx.body = await ctx.renderView('defer2HFFS', { arr });
   }
   async script() {
     const { ctx } = this;
