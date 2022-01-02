@@ -1,3 +1,6 @@
-import {add} from './utils.mjs'
+import { add } from './util-default-export.mjs';
+import { showVersion } from './cjs.js';
 
-console.log(add(1, 2));
+console.log('sum: ', add(1, 2));
+
+showVersion();
