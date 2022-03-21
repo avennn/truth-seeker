@@ -1,0 +1,255 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zho">
+  <head>
+    <meta name="dtb:uid" content="62233e3f-2711-4ddb-9c80-0a42e26f5e93"/>
+    <meta name="dtb:depth" content="3"/>
+    <meta name="dtb:generator" content="calibre (5.26.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>法治的细节（罗翔新作，法律随笔，评热点、论法理、聊读书、谈爱情，人间清醒与你坦诚相见。集结两年社会观察，分享成长与感悟）</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="0" class="chapter">
+      <navLabel>
+        <text>扉页</text>
+      </navLabel>
+      <content src="text/part0001.html#UGI0-28a1a4b8216d4886b3ac273dc901bec2"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="1" class="chapter">
+      <navLabel>
+        <text>序言</text>
+      </navLabel>
+      <content src="text/part0004.html#3Q280-28a1a4b8216d4886b3ac273dc901bec2"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="2" class="chapter">
+      <navLabel>
+        <text>一、法律与道德</text>
+      </navLabel>
+      <content src="text/part0005.html#4OIQ0-28a1a4b8216d4886b3ac273dc901bec2"/>
+      <navPoint id="num_4" playOrder="3" class="chapter">
+        <navLabel>
+          <text>法治如何在不确定中寻找确定性</text>
+        </navLabel>
+        <content src="text/part0006.html#5N3C0-28a1a4b8216d4886b3ac273dc901bec2"/>
+      </navPoint>
+      <navPoint id="num_5" playOrder="4" class="chapter">
+        <navLabel>
+          <text>从法律角度破解电车难题</text>
+        </navLabel>
+        <content src="text/part0007.html#6LJU0-28a1a4b8216d4886b3ac273dc901bec2"/>
+      </navPoint>
+      <navPoint id="num_6" playOrder="5" class="chapter">
+        <navLabel>
+          <text>我们为什么要诚信？</text>
+        </navLabel>
+        <content src="text/part0008.html#7K4G0-28a1a4b8216d4886b3ac273dc901bec2"/>
+      </navPoint>
+      <navPoint id="num_7" playOrder="6" class="chapter">
+        <navLabel>
+          <text>“孝子”能否逾越法律？</text>
+        </navLabel>
+        <content src="text/part0009.html#8IL20-28a1a4b8216d4886b3ac273dc901bec2"/>
+      </navPoint>
+      <navPoint id="num_8" playOrder="7" class="chapter">
+        <navLabel>
+          <text>脑死亡、植物人与“死亡”</text>
+        </navLabel>
+        <content src="text/part0010.html#9H5K0-28a1a4b8216d4886b3ac273dc901bec2"/>
+      </navPoint>
+      <navPoint id="num_9" playOrder="8" class="chapter">
+        <navLabel>
+          <text>死刑应当被废除吗？</text>
+        </navLabel>
+        <content src="text/part0011.html#AFM60-28a1a4b8216d4886b3ac273dc901bec2"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_10" playOrder="9" class="chapter">
+      <navLabel>
+        <text>二、法理的思辨</text>
+      </navLabel>
+      <content src="text/part0012.html#BE6O0-28a1a4b8216d4886b3ac273dc901bec2"/>
+      <navPoint id="num_11" playOrder="10" class="chapter">
+        <navLabel>
+          <text>孩子起诉父母生下自己</text>
+        </navLabel>
+        <content src="text/part0013.html#CCNA0-28a1a4b8216d4886b3ac273dc901bec2"/>
+      </navPoint>
+      <navPoint id="num_12" playOrder="11" class="chapter">
+        <navLabel>
+          <text>可怕的配阴婚民俗</text>
+        </navLabel>
+        <content src="text/part0014.html#DB7S0-28a1a4b8216d4886b3ac273dc901bec2"/>
+      </navPoint>
+      <navPoint id="num_13" playOrder="12" class="chapter">
+        <navLabel>
+          <text>精神病人的刑事责任</text>
+        </navLabel>
+        <content src="text/part0015.html#E9OE0-28a1a4b8216d4886b3ac273dc901bec2"/>
+      </navPoint>
+      <navPoint id="num_14" playOrder="13" class="chapter">
+        <navLabel>
+          <text>人肉搜索的罪与罚</text>
+        </navLabel>
+        <content src="text/part0016.html#F8900-28a1a4b8216d4886b3ac273dc901bec2"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_15" playOrder="14" class="chapter">
+      <navLabel>
+        <text>三、正义的实现</text>
+      </navLabel>
+      <content src="text/part0017.html#G6PI0-28a1a4b8216d4886b3ac273dc901bec2"/>
+      <navPoint id="num_16" playOrder="15" class="chapter">
+        <navLabel>
+          <text>“世纪审判”辛普森案</text>
+        </navLabel>
+        <content src="text/part0018.html#H5A40-28a1a4b8216d4886b3ac273dc901bec2"/>
+      </navPoint>
+      <navPoint id="num_17" playOrder="16" class="chapter">
+        <navLabel>
+          <text>二十六年了，正义的惩罚还会降临吗？</text>
+        </navLabel>
+        <content src="text/part0019.html#I3QM0-28a1a4b8216d4886b3ac273dc901bec2"/>
+      </navPoint>
+      <navPoint id="num_18" playOrder="17" class="chapter">
+        <navLabel>
+          <text>踹伤猥亵者，见义勇为的尺度</text>
+        </navLabel>
+        <content src="text/part0020.html#J2B80-28a1a4b8216d4886b3ac273dc901bec2"/>
+      </navPoint>
+      <navPoint id="num_19" playOrder="18" class="chapter">
+        <navLabel>
+          <text>优势证据与合理怀疑：锤杀案中的证明难题</text>
+        </navLabel>
+        <content src="text/part0021.html#K0RQ0-28a1a4b8216d4886b3ac273dc901bec2"/>
+      </navPoint>
+      <navPoint id="num_20" playOrder="19" class="chapter">
+        <navLabel>
+          <text>与智力残障女孩结婚构成强奸罪吗？</text>
+        </navLabel>
+        <content src="text/part0022.html#KVCC0-28a1a4b8216d4886b3ac273dc901bec2"/>
+      </navPoint>
+      <navPoint id="num_21" playOrder="20" class="chapter">
+        <navLabel>
+          <text>韩国N号房事件的N重罪</text>
+        </navLabel>
+        <content src="text/part0023.html#LTSU0-28a1a4b8216d4886b3ac273dc901bec2"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_22" playOrder="21" class="chapter">
+      <navLabel>
+        <text>四、性刑法</text>
+      </navLabel>
+      <content src="text/part0024.html#MSDG0-28a1a4b8216d4886b3ac273dc901bec2"/>
+      <navPoint id="num_23" playOrder="22" class="chapter">
+        <navLabel>
+          <text>性刑法的惩罚边界</text>
+        </navLabel>
+        <content src="text/part0025.html#NQU20-28a1a4b8216d4886b3ac273dc901bec2"/>
+      </navPoint>
+      <navPoint id="num_24" playOrder="23" class="chapter">
+        <navLabel>
+          <text>当我们谈论恶劣的时候，我们在谈论什么？</text>
+        </navLabel>
+        <content src="text/part0026.html#OPEK0-28a1a4b8216d4886b3ac273dc901bec2"/>
+      </navPoint>
+      <navPoint id="num_25" playOrder="24" class="chapter">
+        <navLabel>
+          <text>性侵犯罪中的核心问题，是不同意</text>
+        </navLabel>
+        <content src="text/part0027.html#PNV60-28a1a4b8216d4886b3ac273dc901bec2"/>
+      </navPoint>
+      <navPoint id="num_26" playOrder="25" class="chapter">
+        <navLabel>
+          <text>代孕应该合法吗？</text>
+        </navLabel>
+        <content src="text/part0028.html#QMFO0-28a1a4b8216d4886b3ac273dc901bec2"/>
+      </navPoint>
+      <navPoint id="num_27" playOrder="26" class="chapter">
+        <navLabel>
+          <text>胎儿有权利吗？</text>
+        </navLabel>
+        <content src="text/part0029.html#RL0A0-28a1a4b8216d4886b3ac273dc901bec2"/>
+      </navPoint>
+      <navPoint id="num_28" playOrder="27" class="chapter">
+        <navLabel>
+          <text>艺术是自由的，但并非无拘无束</text>
+        </navLabel>
+        <content src="text/part0030.html#SJGS0-28a1a4b8216d4886b3ac273dc901bec2"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_29" playOrder="28" class="chapter">
+      <navLabel>
+        <text>五、读经典</text>
+      </navLabel>
+      <content src="text/part0031.html#TI1E0-28a1a4b8216d4886b3ac273dc901bec2"/>
+      <navPoint id="num_30" playOrder="29" class="chapter">
+        <navLabel>
+          <text>在读书中超越有限的今生</text>
+        </navLabel>
+        <content src="text/part0032.html#UGI00-28a1a4b8216d4886b3ac273dc901bec2"/>
+      </navPoint>
+      <navPoint id="num_31" playOrder="30" class="chapter">
+        <navLabel>
+          <text>狂热的魔咒、理性的自负</text>
+        </navLabel>
+        <content src="text/part0033.html#VF2I0-28a1a4b8216d4886b3ac273dc901bec2"/>
+      </navPoint>
+      <navPoint id="num_32" playOrder="31" class="chapter">
+        <navLabel>
+          <text>审判苏格拉底，读柏拉图《申辩篇》</text>
+        </navLabel>
+        <content src="text/part0034.html#10DJ40-28a1a4b8216d4886b3ac273dc901bec2"/>
+      </navPoint>
+      <navPoint id="num_33" playOrder="32" class="chapter">
+        <navLabel>
+          <text>读《会饮篇》，理解爱的严肃与崇高</text>
+        </navLabel>
+        <content src="text/part0035.html#11C3M0-28a1a4b8216d4886b3ac273dc901bec2"/>
+      </navPoint>
+      <navPoint id="num_34" playOrder="33" class="chapter">
+        <navLabel>
+          <text>找到你的玫瑰花</text>
+        </navLabel>
+        <content src="text/part0036.html#12AK80-28a1a4b8216d4886b3ac273dc901bec2"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_35" playOrder="34" class="chapter">
+      <navLabel>
+        <text>六、对话</text>
+      </navLabel>
+      <content src="text/part0037.html#1394Q0-28a1a4b8216d4886b3ac273dc901bec2"/>
+      <navPoint id="num_36" playOrder="35" class="chapter">
+        <navLabel>
+          <text>我的青铜时代</text>
+        </navLabel>
+        <content src="text/part0038.html#147LC0-28a1a4b8216d4886b3ac273dc901bec2"/>
+      </navPoint>
+      <navPoint id="num_37" playOrder="36" class="chapter">
+        <navLabel>
+          <text>如何做一个称职的老师？</text>
+        </navLabel>
+        <content src="text/part0039.html#1565U0-28a1a4b8216d4886b3ac273dc901bec2"/>
+      </navPoint>
+      <navPoint id="num_38" playOrder="37" class="chapter">
+        <navLabel>
+          <text>我们画不出完美的圆，但它是存在的</text>
+        </navLabel>
+        <content src="text/part0040.html#164MG0-28a1a4b8216d4886b3ac273dc901bec2"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_39" playOrder="38" class="chapter">
+      <navLabel>
+        <text>后记</text>
+      </navLabel>
+      <content src="text/part0041.html#173720-28a1a4b8216d4886b3ac273dc901bec2"/>
+      <navPoint id="num_40" playOrder="1" class="chapter">
+        <navLabel>
+          <text>祝各位同学一路平安</text>
+        </navLabel>
+        <content src="text/part0041.html#sigil_toc_id_1"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
