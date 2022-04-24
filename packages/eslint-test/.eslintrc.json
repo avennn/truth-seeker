@@ -1,0 +1,12 @@
+{
+    "root": true,
+    "parserOptions": {
+        "ecmaVersion": 12
+    },
+    "plugins": ["prettier-line-feed"],
+    "extends": ["eslint:recommended"],
+    "rules": {
+        "prettier-line-feed/object-property-count": [2, { "max": 3 }],
+        "indent": [2, 2]
+    }
+}
